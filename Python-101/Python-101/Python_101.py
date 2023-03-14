@@ -3,7 +3,7 @@
 Project descraption:
 This project is for one of the "Full Stack Python" Courses 
 which consists of several courses and each course contains a simple project,
-provided by Education satr platform
+provided by منصة سطر التعليمية
 
 "You will find the full project explanation at GitHub.."
 
