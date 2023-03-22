@@ -4,7 +4,7 @@ his project is for one of the "Full Stack Python" Courses
 
 which consists of several courses and each course contains a simple project,
 
-provided byمنصة سطر التعليمية.
+provided by SATR Platform.
 
 
 
@@ -24,11 +24,11 @@ The following table can be used:
 
 # Course learning outcomes:
 
-1- Understand how functions work
+* Understand how functions work
 
-2- Dictionary dealing with dictionaries.
+* Dictionary dealing with dictionaries.
 
-3- Use a loop with a dictionary.
+* Use a loop with a dictionary.
 
-4- Understand how a loop works with an if statement.
+* Understand how a loop works with an if statement.
 
