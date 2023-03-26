@@ -12,7 +12,7 @@ This is a simple phone book program that enables you to search in contacts and a
 
 
 
-# Requirements:
+# Course's Project Description:
 
 Build a program that represents the phone book, so that it receives the phone number, and returns to us the name of the owner of the number. 
 
